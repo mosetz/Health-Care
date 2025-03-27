@@ -1,0 +1,172 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  
+}
+
+header h1 {
+	text-align: center;
+    font-size: 28px;
+    color: #0056b3;
+    margin-bottom: 20px;
+}
+
+#container {
+	background: white;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0px 1px 10px;
+	width: 50%;
+	margin-top: 30px;
+	margin: auto;
+	
+}
+
+.login {
+	background-color: #0056b3 ;
+	font-size: 16px;
+	border-radius: 8px;
+	color: white;
+	text-align: center;
+	padding: 10px 24px;
+	
+}
+
+.login:hover {
+    background-color: #007bff;
+}
+
+
+.enter-butt{
+	background-color: #0056b3;
+	font-size: 12px;
+	border-radius: 6px;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	
+}
+
+.enter-butt:hover{
+	background-color: #007bff;
+}
+
+#doc-info {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 1px 5px;
+	width: 60%;
+	margin: auto;
+	margin-top: 30px;
+}
+
+#exit-butt {
+	background-color: #0056b3;
+	font-size: 12px;
+	border-radius: 6px;
+	color: white;
+	text-align: center;
+	padding: 8px;
+	float: right;
+}
+
+#exit-butt:hover{
+	background-color: #007bff;
+}
+
+#doc-appoint {
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 1px 5px;
+	width: 50%;
+	margin: auto;
+}
+
+#move-butt a {  /* found this on stackover flow remove underline from <a> tags*/
+	text-decoration: none;
+}
+
+#move-butt{
+	background-color: #0056b3;
+	font-size: 12px;
+	border-radius: 5px;
+	color: white;
+	padding: 5px
+}
+
+#move-butt:hover{
+	background-color: #007bff;
+}
+
+#pres-container{
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 1px 5px;
+	width: 50%;
+	margin: auto;
+}
+
+#delete-butt {
+	background-color:  #0056b3;
+	font-size: 15px;
+	border-radius: 5px;
+	color: white;
+	padding: 5px;
+}
+
+#delete-butt:hover{
+	background-color: #007bff;
+}
+
+table {
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+thead th {
+	background-color: #e0e0e0;
+	text-align: left;
+	padding: 12px;
+	font-weight: bold;
+	
+	
+}
+
+tbody tr {
+    border-bottom: 1px solid #ccc;
+}
+
+td {
+    padding: 12px;
+    text-align: left;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+}
+
+
+#alt-doc{
+	background-color: white;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 1px 5px;
+	width: 50%;
+	margin: auto;
+}
+
+.dele-butt {
+	background-color: #0056b3;
+	font-size: 15px;
+	border-radius: 5px;
+	color: white;
+	padding: 5px;
+}
+
+a:visited { /* found this on stackover flow change color of <a> tags */
+    color: white;
+}
