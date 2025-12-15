@@ -24,7 +24,7 @@ A small PHP-based web application created as an assignment for the Web-Based Inf
 - A web server (Apache, Nginx) or the PHP built-in server
 
 **Quick Setup**
-1. Copy the project into your web root (for example `www` or `htdocs`).
+1. Clone the project 
 2. Create a MySQL database and user for the application.
 3. Edit `DBconnect.php` and set your database host, name, user, and password.
 4. Start your web server and open `index.php` in a browser.
